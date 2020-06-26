@@ -1,5 +1,5 @@
 ## Adventure in Super Monopoly and Reinforcement Learning
-####### Jesse Moore
+##### Jesse Moore
 ------
 
 ![picture](“https://www.publicdomainpictures.net/pictures/210000/velka/monopoly-game-board.jpg”)
