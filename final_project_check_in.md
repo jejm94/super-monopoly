@@ -1,8 +1,7 @@
 ## Adventure in Super Monopoly and Reinforcement Learning
-##### Jesse Moore
-------
 
-![picture](“https://www.publicdomainpictures.net/pictures/210000/velka/monopoly-game-board.jpg”)
+##### Jesse Moore
+
 
 Research Question: Can I use Reinforcement Learning to create an optimal strategy for playing Super Monopoly?
 
